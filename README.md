@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ushashi-Tech
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on frontend dev
+- 4th year CSE student @ MAKAUT | GSoC 2026 Applicant @ C2SI | Python | AI/ML
+- 🌱 I’m currently an enthusiatic developer
+- 💞️ I’m looking to collaborate on backendend dev
 - 📫 How to reach me : mail me at tinni1511@gmail.com
 
 <!---
